@@ -9,6 +9,7 @@ authors:
     affiliation: "Creativate Technologies GmbH"
 repository-code: "https://github.com/CreativateLabs/governed-graph-growth"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24099664"
 version: 1.0.0
 date-released: "2026-11-10"
 keywords:
@@ -29,3 +30,4 @@ preferred-citation:
     name: "Creativate Technologies GmbH"
   year: 2026
   version: 1.0.0
+  doi: "10.5281/zenodo.24099664"

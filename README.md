@@ -4,7 +4,9 @@ A technical note on keeping a knowledge graph trustworthy while it grows every d
 different quality — official gazettes and registers, court and authority decisions, guidance, news and research
 signals.
 
-**Read the note: [NOTE.md](NOTE.md)** · Cite it: [CITATION.cff](CITATION.cff) · DOI: *assigned on release*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24099664.svg)](https://doi.org/10.5281/zenodo.24099664)
+
+**Read the note: [NOTE.md](NOTE.md)** · Cite it: [CITATION.cff](CITATION.cff) · DOI: [10.5281/zenodo.24099664](https://doi.org/10.5281/zenodo.24099664) (all versions; v1.0.0: [10.5281/zenodo.24099665](https://doi.org/10.5281/zenodo.24099665))
 
 ## Why
 
