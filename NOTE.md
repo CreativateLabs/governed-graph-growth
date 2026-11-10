@@ -188,7 +188,7 @@ operates one.
 ## References
 
 1. L. Bornhäußer. *grounded-ai-evals: a four-layer method for evaluating AI systems that answer with evidence.*
-   2026. https://github.com/adminleo/grounded-ai-evals
+   2026. Zenodo. https://doi.org/10.5281/zenodo.24100702
 2. W3C. *PROV-O: The PROV Ontology.* W3C Recommendation, 2013. https://www.w3.org/TR/prov-o/
 3. W3C. *Shapes Constraint Language (SHACL).* W3C Recommendation, 2017. https://www.w3.org/TR/shacl/
 4. Publications Office of the EU. *European Legislation Identifier (ELI).* https://eur-lex.europa.eu/eli-register/about.html
