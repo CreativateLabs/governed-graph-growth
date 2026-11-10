@@ -1,0 +1,16 @@
+{
+  "title": "Governed growth: keeping a continuously ingested, provenance-first knowledge graph trustworthy",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "A governance method for knowledge graphs that ground AI answers and grow daily from sources of very different quality. Nine principles — source authority tiers, identity before enrichment, no synthesised identifiers, rule-classed relations, schema re-validation, licence-carrying data, reviewed judgement, observed growth and minimised personal data — on a deterministic, idempotent pipeline, mapped to PROV-O, SHACL, ELI, ECLI, LEI and the EU AI Act. Method only; no implementation, parameters or graph contents.",
+  "creators": [
+    {"name": "Bornhäußer, Leonardo", "affiliation": "Creativate Technologies GmbH", "orcid": "0009-0005-6464-5179"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["knowledge graphs", "data governance", "provenance", "ontology engineering", "legal informatics", "EU AI Act"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/adminleo/grounded-ai-evals", "relation": "references", "resource_type": "software"}
+  ]
+}

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Governed growth: keeping a continuously ingested, provenance-first knowledge graph trustworthy"
+message: "If you use this method, please cite it."
+type: software
+authors:
+  - family-names: "Bornhäußer"
+    given-names: "Leonardo"
+    orcid: "https://orcid.org/0009-0005-6464-5179"
+    affiliation: "Creativate Technologies GmbH"
+repository-code: "https://github.com/CreativateLabs/governed-graph-growth"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-11-10"
+keywords:
+  - knowledge graphs
+  - data governance
+  - provenance
+  - ontology engineering
+  - legal informatics
+  - EU AI Act
+preferred-citation:
+  type: report
+  title: "Governed growth: keeping a continuously ingested, provenance-first knowledge graph trustworthy"
+  authors:
+    - family-names: "Bornhäußer"
+      given-names: "Leonardo"
+      orcid: "https://orcid.org/0009-0005-6464-5179"
+  institution:
+    name: "Creativate Technologies GmbH"
+  year: 2026
+  version: 1.0.0
